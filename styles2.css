@@ -3,7 +3,7 @@ body {
     font-family: 'Times new Roman';
     background-color: #f2f2f2;
 }
-container {
+.container {
     width: 350px;
     margin: 100px;
     background-color: whitesmoke;
@@ -50,4 +50,5 @@ input {
 .link{
     color: #4caf50;
     text-decoration: none;
+
 }
